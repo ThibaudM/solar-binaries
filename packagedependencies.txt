@@ -1,0 +1,4 @@
+xpcf|2.5.0|xpcf|thirdParties|https://github.com/ThibaudM/solar-binaries/releases/download
+spdlog|0.14.0|spdlog|thirdParties|https://github.com/ThibaudM/solar-binaries/releases/download
+opengv|1.0.0|opengv|thirdParties|https://github.com/ThibaudM/solar-binaries/releases/download
+fbowSolAR|0.0.4|fbowSolAR|thirdParties|https://github.com/ThibaudM/solar-binaries/releases/download
